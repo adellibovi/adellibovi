@@ -4,7 +4,6 @@
 ##### NOW
 
 - 🐝 I am currently working at [Bumble](https://bumble.com) as iOS Senior Software Engineer, shaping a world where all relationships are healthy and equitable.
-
 - 🕺 I'm a core maintainer of [Tuist](https://github.com/tuist/tuist), a command line tool that helps developers generate, maintain and interact with Xcode project. Are you an Apple developer? Go check it out!
 
 ##### BIO

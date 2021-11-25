@@ -11,6 +11,6 @@
 
 - 📱 10+ years of experience developing mobile apps
 - 🗺️ Based in Barcelona
-- 🏎️ Writing `.swift` files
+- 🏎️ Enjoying writing `.swift` files
 - 😋 Food enthusiast (I should probably open source my favorite restaurants from around the globe at some point) 
 - 📫 Feel free to reach me at [twitter.com/adellibovi](https://twitter.com/adellibovi)
